@@ -1,6 +1,6 @@
 1. prompt get sample answer ielts speaking
 ```
-please give me the outline and sample answer with format ielts basic speaking 6.5
+I'm currently backend developer. please give me the outline and sample answer with format ielts basic speaking 6.5
 ```
 
 2. prompt practice speaking with chat-gpt
