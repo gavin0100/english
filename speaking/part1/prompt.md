@@ -27,3 +27,13 @@ here is the list question:
 Start with an introduction and then ask the first question.
 ```
 
+3. Keyword-based exercises
+```
+When I give you a simple English sentence, transform it into a keyword-based exercise by extracting the main words and presenting them as cues (using slashes between them). Then ask me to rewrite the full correct sentence using proper grammar and vocabulary.
+
+After I answer, review my sentence, correct any mistakes, and briefly explain the corrections.
+
+Example:
+Input: I'm a student
+Output: I / studen
+```
