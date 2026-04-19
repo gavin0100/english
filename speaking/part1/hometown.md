@@ -13,6 +13,9 @@ Overall, I think both places are quite different, but I’ve gotten used to the 
 => I used to live in Lam Dong, which was very peaceful and surrounded by nature. Now, I live in Ho Chi Minh City, 
 which is much more modern and busy, and there are more opportunities for work and study. 
 Although both places are quite different, I’ve adapted to the fast-paced life in the city
+
+=> used to live / Lam Dong / very peaceful / surrounded by nature / now live / Ho Chi Minh City / more modern / busy 
+/ more opportunities / work / study / although / both places / quite different / adapted to / fast-paced life / city
 ```
 
 2. What are the people like? Is it true that they are generally quite tall?
@@ -28,6 +31,9 @@ So overall, I think personality is what really stands out rather than their phys
 => In my hometown, people are generally very friendly and easygoing. They’re quite welcoming, especially to visitors, and I really admire their kindness. 
 As for height, I don’t think they are especially tall; I’d say they have an average height compared to big cities. 
 Overall, their personality is more important than their appearance
+
+=> hometown / people / generally friendly / easygoing / welcoming / especially visitors / admire / kindness / as for height 
+/ not especially tall / average height / compared to big cities / overall / personality more important / appearance
 ```
 
 3. Tell me something about the weather in your home town. If I want to visit, when is the best time to come?
@@ -43,6 +49,10 @@ If you want to visit, I would recommend going in the dry season, especially from
 The weather in Lam Dong is usually cool and pleasant compared to the big city. It’s fresh, with a moderate temperature, making it very comfortable. 
 There are two main seasons: the rainy season and the dry season. It can get quite wet in the rainy months, so I would suggest visiting in the dry season, 
 from about November to April, when the weather is nicer and perfect for outdoor activities
+
+=> weather / Lam Dong / usually cool / pleasant / compared to big city / fresh / moderate temperature / comfortable 
+/ two main seasons / rainy season / dry season / quite wet / rainy months / suggest visiting / dry season / November to April 
+/ weather nicer / perfect / outdoor activities
 ```
 
 4. But, why isn't it that good to visit during the other seasons?
@@ -56,6 +66,9 @@ For example, some places can be quite slippery or foggy, so it’s less enjoyabl
 
 => It's not a good idea to visit during the rainy season because it rains heavily. The weather is often unpredictable, 
 which makes it hard to travel or do outdoor activities. For example, some places can get slippery or foggy, so it’s less enjoyable for tourists.
+
+=> not a good idea / visit / rainy season / rains heavily / weather / unpredictable / hard to travel / outdoor activities 
+/ for example / places / slippery / foggy / less enjoyable / tourists
 ```
 
 5. Are there very many places in your home town? What kind of role did your home town play in ancient Vietnam?
@@ -69,6 +82,9 @@ As for its role in ancient Vietnam, I’m not really sure, but I don’t think i
 
 => There aren’t many famous places in my hometown, but it’s known for its natural beauty, like mountains and forests. It’s more of a peaceful place rather than a historical site. 
 As for its role in ancient Vietnam, I’m not really sure, but I don’t think it had a big historical impact. It was probably a rural area focused on farming and daily life
+
+=> not many famous places / hometown / known for / natural beauty / mountains / forests / more peaceful place / rather than 
+/ historical site / as for / role / ancient Vietnam / not really sure / not a big historical impact / probably / rural area / focused on / farming / daily life
 ```
 
 6. Are there any other interesting facts about your home town?
@@ -83,6 +99,10 @@ Personally, I think these things make my hometown a really unique and enjoyable 
 => Yes, there are a few interesting facts about my hometown. One of the most notable things is its cool climate, which is quite unusual compared to other places in Vietnam. 
 This makes it a popular tourist destination for those who want to escape the heat. Another interesting feature is that it’s famous for its coffee and flower farms, 
 which attract a lot of visitors each year. Personally, I think these things make my hometown a really unique and enjoyable place to visit
+
+=> yes / a few interesting facts / hometown / one of the most notable / cool climate / unusual / compared to other places 
+/ Vietnam / popular tourist destination / escape the heat / another interesting feature / famous for / coffee / flower farms 
+/ attract / visitors each year / personally / unique / enjoyable place to visit
 ```
 
 7. What are the special products from your home town? Any special foods or clothes, or arts and crafts
@@ -97,6 +117,9 @@ Personally, I think it’s a very special product, and it also plays an importan
 => Yes, my hometown is well-known for growing durians. Many local people cultivate them, and it has become one of the main agricultural products in the area. 
 The fruit is very popular because of its strong flavor, and it’s often eaten fresh or used in desserts. 
 Personally, I think it’s a very special product, and it also plays an important role in the local economy
+
+=> yes / hometown / well-known for / growing durians / many local people / cultivate / main agricultural products / area 
+/ fruit / very popular / strong flavor / eaten fresh / used in desserts / personally / special product / important role / local economy
 ```
 
 8. What do you think is the biggest difference between your home town and Ho Chi Minh City?
@@ -111,6 +134,10 @@ Because of that, life in the city can be more stressful, but it also offers more
 => I think the biggest difference is the pace of life. My hometown is much more peaceful and has a slower pace, with a quieter environment and fewer people. 
 In contrast, Ho Chi Minh City is very busy and fast-paced, with lots of traffic and activities happening all the time. 
 Because of that, life in the city can be more stressful, but it also offers more opportunities
+
+=> biggest difference / pace of life / hometown / more peaceful / slower pace / quieter environment / fewer people / in contrast 
+/ Ho Chi Minh City / very busy / fast-paced / lots of traffic / activities / all the time / because of that / city life 
+/ more stressful / also offers / more opportunities
 ```
 
 9. Would you mind giving me your e-mail address so that I can keep in touch with you?
@@ -123,6 +150,8 @@ Of course, I don’t mind at all. My email address is [your email]. Feel free to
 
 => Of course, I don’t mind. My email address is vongduy0100@email.com
 . Feel free to contact me anytime, and I’d be happy to stay in touch
+
+=> of course / don’t mind / email address / vongduy0100@email.com/ feel free / contact me / anytime / happy / stay in touch
 ```
 
 10. .with the "size" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
@@ -139,6 +168,10 @@ Because of its smaller size, my hometown is quieter and more peaceful. On the ot
 In contrast, Ho Chi Minh City is a large, vibrant urban area, with many high-rise buildings and businesses. 
 Because of its smaller size, my hometown is quieter and more peaceful, while Ho Chi Minh City is more dynamic and 
 offers more opportunities for work and entertainment.
+
+=> hometown / Lam Dong / much smaller / not as big / not as developed / Ho Chi Minh City / smaller area / lower population 
+/ in contrast / large / vibrant urban area / high-rise buildings / businesses / because of / smaller size / quieter / more peaceful 
+/ while / more dynamic / offers / work / entertainment opportunities
 ```
 
 11. With the "population" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
@@ -151,9 +184,13 @@ My hometown is Lâm Đồng, and in terms of population, it is much less populat
 Compared to my hometown, Ho Chi Minh City is much more crowded and densely populated. In contrast, my hometown is quieter and not overcrowded.
 Because of the smaller population, life in my hometown is more peaceful and less stressful. On the other hand, Ho Chi Minh City can be very busy due to its large population.
 
-=> "My hometown, Lam Dong, has a much smaller population. It’s relatively quiet, while Ho Chi Minh City has a huge population. The city is much more crowded and densely populated, 
+=> My hometown, Lam Dong, has a much smaller population. It’s relatively quiet, while Ho Chi Minh City has a huge population. The city is much more crowded and densely populated, 
 whereas my hometown is more spacious and not overcrowded. Because of its smaller population, life in my hometown is calmer and less stressful, 
 while Ho Chi Minh City can be very busy due to its large population.
+
+=> hometown / Lam Dong / much smaller population / relatively quiet / while / Ho Chi Minh City / huge population / more crowded 
+/ densely populated / whereas / more spacious / not overcrowded / because of / smaller population / life / calmer / less stressful 
+/ city / very busy / large population
 ```
 
 12. With the "location" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
@@ -170,6 +207,10 @@ While my hometown is more rural and surrounded by nature, Ho Chi Minh City is mo
 In contrast, Ho Chi Minh City is located in the southern part of the country and is a large urban area. Compared to my hometown, 
 it is much more developed and densely built, while my hometown is more rural and surrounded by nature. 
 Because of its location, my hometown is more peaceful and calm, whereas the city is more vibrant and active
+
+=> hometown / Lam Dong / Central Highlands / Vietnam / mountainous / inland area / hills / forests / in contrast / Ho Chi Minh City 
+/ southern part / large urban area / compared to / more developed / densely built / while / more rural / surrounded by nature 
+/ because of / location / more peaceful / calm / whereas / more vibrant / active
 ```
 
 13. With the "Weather" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
@@ -187,6 +228,10 @@ Overall, I think the weather in my hometown is more enjoyable, whereas Ho Chi Mi
 In contrast, Ho Chi Minh City has a tropical climate, so it is hotter and more humid all year round. Compared to my hometown, the city is often more uncomfortable, 
 especially during the hot season. Both places have rainy and dry seasons, but the rain in Ho Chi Minh City is heavier. 
 Overall, I think the weather in my hometown is more enjoyable, while Ho Chi Minh City is hotter and more tiring.
+
+=> hometown / Lam Dong / cooler / more pleasant weather / highlands / lower temperature / more comfortable / in contrast 
+/ Ho Chi Minh City / tropical climate / hotter / more humid / all year round / compared to / more uncomfortable / especially 
+/ hot season / both places / rainy / dry seasons / rain / heavier / overall / more enjoyable / while / hotter / more tiring
 ```
 
 14. With the "Transportation system" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
@@ -203,6 +248,10 @@ However, because of the large population, traffic in Ho Chi Minh City is often v
 In contrast, Ho Chi Minh City has a much more developed and modern system, with many options like buses, taxis, and a metro. 
 Compared to my hometown, it is more convenient for people to get around. However, because of the large population, 
 the traffic in the city is often very heavy and crowded, whereas in my hometown, the traffic is lighter and less stressful
+
+=> hometown / Lam Dong / less developed transportation / compared to / Ho Chi Minh City / most people / rely on / motorbikes 
+/ public transport / limited / in contrast / more developed / modern system / buses / taxis / metro / more convenient 
+/ get around / however / large population / traffic / very heavy / crowded / whereas / lighter / less stressful
 ```
 
 15. With the "People" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
@@ -220,6 +269,10 @@ However, there are some differences: people in my hometown are more relaxed and 
 and less stressful. In contrast, people in Ho Chi Minh City are busier and more dynamic due to the fast-paced life. 
 Compared to my hometown, people in the city often work harder and have less free time. 
 Overall, people in my hometown tend to enjoy a more peaceful and balanced life.
+
+=> hometown / Lam Dong / people / kind / friendly / similar to / Ho Chi Minh City / however / differences / more relaxed 
+/ easygoing / slower lifestyle / less stressful / in contrast / busier / more dynamic / fast-paced life / compared to 
+/ work harder / less free time / overall / more peaceful / balanced life
 ```
 
 
@@ -238,6 +291,10 @@ Compared to my hometown, the city is more modern and exciting, while my hometown
 For example, tourists often visit Da Lat and other areas to enjoy the fresh air and peaceful environment. 
 In contrast, Ho Chi Minh City offers more urban attractions. There are many historical sites, shopping malls, 
 and busy markets like Ben Thanh Market. Compared to my hometown, the city is more modern and exciting, while my hometown is more relaxing and close to nature
+
+=> hometown / Lam Dong / known for / natural attractions / mountains / forests / waterfalls / sightseeing / camping / for example 
+/ tourists / Da Lat / fresh air / peaceful environment / in contrast / Ho Chi Minh City / urban attractions / historical sites 
+/ shopping malls / busy markets / Ben Thanh Market / compared to / more modern / exciting / while / more relaxing / close to nature
 ```
 
 17. With the "Nightlife" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
@@ -253,4 +310,8 @@ Compared to my hometown, the city is much more exciting and crowded, especially 
 => My hometown, Lam Dong, has much quieter nightlife. There aren’t many entertainment options, and most shops and restaurants close early. 
 In contrast, Ho Chi Minh City has a very vibrant and lively nightlife. There are many places like bars, clubs, and restaurants that stay open late at night. 
 Compared to my hometown, the city is much more exciting and crowded, especially in the city center. Meanwhile, the nightlife in my hometown is more peaceful and relaxed.
+
+=> hometown / Lam Dong / quieter nightlife / not many entertainment options / shops / restaurants / close early / in contrast 
+/ Ho Chi Minh City / vibrant / lively nightlife / bars / clubs / restaurants / open late / compared to / more exciting 
+/ crowded / especially / city center / meanwhile / more peaceful / relaxed
 ```
