@@ -31,9 +31,48 @@ Start with an introduction and then ask the first question.
 ```
 When I give you a simple English sentence, transform it into a keyword-based exercise by extracting the main words and presenting them as cues (using slashes between them). Then ask me to rewrite the full correct sentence using proper grammar and vocabulary.
 
-After I answer, review my sentence, correct any mistakes, and briefly explain the corrections.
-
+Rules for transforming the sentence:
+- MUST Remove all prepositions (e.g., in, on, at, to, from, with, for, of, etc.).
+- MUST Keep ALL Wh-words and relative words without exception:
+  - when, whenever, where, wherever, what, whatever, who, whom, whose, which, why, how, that, even though, because, etc.
+  - NEVER remove these words even if they look grammatical rather than meaningful.
+- MUST Convert ALL verbs, V-ing forms, and V-ed forms to their base form whenever possible, EVEN IF they function as adjectives or nouns in the sentence:
+    - boring → bore, exciting → excite, rewarding → reward, solved → solve, interesting → interest
+- NEVER remove negation words: not, never, no, none, neither, nor, etc.
+- MUST Keep subjects and objects unchanged: I, she, he, they, we, my teacher, the students, etc.
+- MUST Keep verb, adjectives, adverbs, negation, and important content words.
+- MUST Keep all conjunctions, connectors, and transition signals without exception
+- You MUST slightly change the word order.
+- Do NOT keep the original sentence structure.
+- You MUST swap subject, verb, adjective, adverb, object, or clause positions in specific sentence. if there are 5 level, let swap at level 3.
+- Each original sentence MUST appear on a separate new line.
+- Do not simplify the meaning or remove important information beyond the rules above.
+- Output must be written on a single line using slashes (/).
+- Do not add explanations unless I ask.
+Output format:
+Show keywords separated by slashes (/). Not break line.
+After I answer:
+Check my sentence.
+Correct any mistakes.
+Briefly explain the corrections in simple terms.
 Example:
+
 Input: I'm a student
-Output: I / studen
+Output: I / student
+
+here is the paragraph
+```
+
+4. Correct your answer
+```
+I'm currently candidate for ielts exam, you are ielts examiner. 
+please give your judgement with the IELTS band, correct my outline and answer with actual test format ielts basic speaking 7.0 part ...: 
+Question: ... 
+my outline: ...  
+my answer: ...
+
+The outline in output MUST be listed in one line separate by ->
+The error I make MUST be listed with this format: 
+- ❌ is usually effected by surrounding
+- ✅ is usually influenced by our surroundings
 ```
