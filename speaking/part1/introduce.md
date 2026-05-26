@@ -12,6 +12,13 @@
 
 I’m originally from Lam Dong, which is a more peaceful area. However, I moved to Ho Chi Minh City after I graduated from high school, and I’ve been living here ever since because of work and study opportunities.
 
+❌ which is a more peaceful area
+✅ which is a peaceful province in southern Vietnam
+❌ because of work and study opportunities
+✅ for work and study opportunities
+❌ I moved to Ho Chi Minh City after I graduated from high school
+✅ I moved to Ho Chi Minh City after graduating from high school
+
 => My name is Gavin, and I’m originally from Lam Dong, a very beautiful place. 
 After finishing high school, I moved to Ho Chi Minh City, and I’ve been here since I started working and studying.
 

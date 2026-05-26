@@ -7,6 +7,13 @@ I studied Information Technology at university. My major focused mainly on softw
 I chose this field because I was interested in technology and how applications are built. During my studies, I also worked on some small projects, which helped me understand how to solve real-world problems.
 This background is very useful for my current job as a backend developer, because I use many of the same skills, especially working with databases and building server-side logic
 
+❌ My major focused mainly on software development, including programming languages like Java and Python, as well as databases and web development.
+✅ My major mainly focused on software development, including programming languages such as Java and Python, as well as database management and web development.
+❌ I chose this field because I was interested in technology and how applications are built.
+✅ I chose this field because I have always been interested in technology and how software applications are developed.
+❌ This background is very useful for my current job as a backend developer.
+✅ This background has been very useful in my current job as a backend developer.
+
 => I studied Information Technology at university. My major focused on software development, and I took courses in programming languages like Java, 
 as well as web development. I chose this field because I’m passionate about technology, and during my studies, I worked on small projects that helped me apply my skills. 
 This experience is really useful now in my career as a backend developer.
@@ -24,6 +31,15 @@ This experience is really useful now in my career as a backend developer.
 I took a variety of courses related to Information Technology. Some of the main subjects were programming, database management, and web development.
 For example, in programming classes, I learned languages like Java and Python, and how to write clean and efficient code. In database courses, I studied how to design and manage data using SQL.
 I found some courses quite challenging, especially algorithms, but they were very useful for improving my problem-solving skills.
+
+❌ I took a variety of courses related to Information Technology.
+✅ I took a wide range of courses related to Information Technology.
+❌ For example, in programming classes, I learned languages like Java and Python, and how to write clean and efficient code.
+✅ For example, in my programming courses, I learned languages such as Java and Python and developed skills in writing clean and efficient code.
+❌ In database courses, I studied how to design and manage data using SQL.
+✅ In database courses, I learned how to design, organize, and manage data using SQL.
+❌ I found some courses quite challenging, especially algorithms, but they were very useful for improving my problem-solving skills.
+✅ I found some courses, especially algorithms, quite challenging, but they helped me develop stronger problem-solving skills.
 
 => I took a variety of courses related to Information Technology. The main subjects included programming, database management, and web development. 
 For example, in programming, I learned languages such as Java and Python, and I practiced writing clean, efficient code. 
@@ -44,6 +60,15 @@ I chose this major because I have always been interested in technology, especial
 Another reason is that I knew this field has many job opportunities and good career growth. So I thought it would be a practical choice for my future.
 In the end, I think I made the right decision because now I’m working as a backend developer, and I really enjoy my job.
 
+❌ I have always been interested in technology, especially how software and applications work.
+✅ I have always been interested in technology, especially how software and applications are developed.
+❌ When I was in high school, I started learning some basic programming, and I found it really interesting.
+✅ When I was in high school, I started learning basic programming, and I found it fascinating.
+❌ Another reason is that I knew this field has many job opportunities and good career growth.
+✅ Another reason is that I knew this field offered plenty of job opportunities and strong career prospects.
+❌ So I thought it would be a practical choice for my future.
+✅ So I felt it would be a practical and rewarding career path.
+
 => I chose this major because I have always been interested in technology, especially in how software and applications work. 
 When I was in high school, I started learning some basic programming, and I found it really interesting. Another reason was that 
 I knew this field had many job opportunities and good career growth, so I thought it would be a practical choice. 
@@ -62,6 +87,15 @@ In the end, I think I made the right decision because now I work as a backend de
 I think the most interesting course I studied was database management. The course mainly focused on how to store, organize, and manage data efficiently.
 I found it interesting because it was very practical and closely related to real-world applications. For example, I learned how to use SQL to query data and design simple database systems.
 This course was also very useful for my current job as a backend developer, since I work with databases almost every day
+
+❌ The course mainly focused on how to store, organize, and manage data efficiently.
+✅ The course mainly focused on teaching us how to store, organize, and manage data efficiently.
+❌ I found it interesting because it was very practical and closely related to real-world applications.
+✅ I found it particularly interesting because it was highly practical and closely connected to real-world applications.
+❌ For example, I learned how to use SQL to query data and design simple database systems.
+✅ For example, I learned how to use SQL to retrieve data and design simple database systems.
+❌ This course was also very useful for my current job as a backend developer, since I work with databases almost every day.
+✅ This course has been very useful in my current job as a backend developer because I work with databases almost every day.
 
 => I think the most interesting course I studied was database management. The course mainly focused on how to store, organize, and manage data efficiently. 
 I found it interesting because it was very practical and closely related to real-world applications. For example, I learned how to use SQL to query data and design robust database systems. 
@@ -82,6 +116,13 @@ Yes, I think college life is generally freer than middle school. In college, stu
 However, I wouldn’t say it’s easy. Students still need to study hard and be responsible for their own learning, because no one will remind them all the time like teachers did in middle school.
 In my opinion, college life is a good balance between freedom and responsibility. If you manage your time well, you can enjoy it and still get good results
 
+❌ In college, students usually have more flexible schedules and more independence in choosing their courses and managing their time.
+✅ In college, students usually have more flexible schedules and greater freedom to choose their courses and manage their own time.
+❌ Students still need to study hard and be responsible for their own learning, because no one will remind them all the time like teachers did in middle school.
+✅ Students still need to study hard and take responsibility for their own learning because, unlike in middle school, teachers don't constantly remind them what to do.
+❌ If you manage your time well, you can enjoy it and still get good results.
+✅ If you manage your time well, you can enjoy college life while still achieving good academic results.
+
 => Yes, I think college life is generally freer than middle school. In college, students usually have more flexible schedules and more independence in choosing their courses and managing their time. 
 However, I wouldn’t say it’s easy. Students still need to study hard and be responsible for their own learning because no one will remind them all the time like in middle school. 
 In my opinion, college life is a good balance between freedom and responsibility. If you manage your time properly, you can enjoy it and still get good results.
@@ -99,6 +140,15 @@ In my opinion, college life is a good balance between freedom and responsibility
 Yes, there were a few things I didn’t really like about college. One of them was the heavy workload, especially during exam periods.
 Sometimes I had to deal with many assignments and deadlines at the same time, which made me feel quite stressed. In addition, some courses were too theoretical and not very practical, so I found them a bit boring.
 However, I still think those experiences helped me become more disciplined and better at managing my time
+
+❌ One of them was the heavy workload, especially during exam periods.
+✅ One thing I disliked was the heavy workload, particularly during exam periods.
+❌ Sometimes I had to deal with many assignments and deadlines at the same time, which made me feel quite stressed.
+✅ Sometimes I had several assignments and deadlines to handle at once, which was quite stressful.
+❌ In addition, some courses were too theoretical and not very practical, so I found them a bit boring.
+✅ In addition, some courses focused too much on theory and lacked practical applications, so I found them less engaging.
+❌ However, I still think those experiences helped me become more disciplined and better at managing my time.
+✅ However, those experiences helped me become more disciplined and improve my time-management skills.
 
 => Yes, there were a few things I didn’t really like about college. One of them was the heavy workload, especially during exam periods. 
 Sometimes, I had to deal with many assignments and deadlines all at once, which made me feel quite stressed. 
@@ -120,6 +170,16 @@ For example, I could choose my courses and decide how to study, which helped me 
 I also had time to join some activities and work on personal projects.
 Overall, this experience helped me grow more confident and better prepared for my future career
 
+❌ I think the best thing about being a college student was the independence.
+✅ I think the best thing about being a college student was the sense of independence it gave me.
+❌ I had more freedom to manage my own schedule and make my own decisions.
+✅ I had much more freedom to manage my own schedule and make decisions independently.
+❌ For example, I could choose my courses and decide how to study, which helped me become more responsible.
+✅ For example, I could choose my own courses and decide how to organize my studies, which helped me become more responsible.
+❌ Overall, this experience helped me grow more confident and better prepared for my future career.
+✅ Overall, this experience helped me become more confident and better prepared for my future career.
+
+
 => I think the best thing about being a college student was having independence. 
 I had more freedom to manage my own schedule and make my own decisions. 
 For example, I could choose my courses and decide how I studied, which helped me become more responsible. 
@@ -140,6 +200,15 @@ I think there are some clear differences between high school and university cour
 In contrast, university courses are more specialized. Students focus mainly on their major, and the subjects are more detailed and sometimes more difficult.
 Another difference is the teaching style. In university, students need to study more independently, while in high school, teachers often guide them step by step.
 Overall, I think university courses are more challenging but also more practical and useful for future careers
+
+❌ In high school, students usually study many subjects, such as math, literature, and science, so the knowledge is more general.
+✅ In high school, students usually study a wide range of subjects, such as mathematics, literature, and science, so the knowledge they gain is more general.
+❌ Students focus mainly on their major, and the subjects are more detailed and sometimes more difficult.
+✅ Students focus mainly on their chosen major, and the courses tend to be more specialized and academically demanding.
+❌ In university, students need to study more independently, while in high school, teachers often guide them step by step.
+✅ At university, students are expected to study more independently, whereas high school teachers usually provide closer guidance.
+❌ Overall, I think university courses are more challenging but also more practical and useful for future careers.
+✅ Overall, I believe university courses are more challenging, but they are also more practical and better prepare students for their future careers.
 
 => I think there are some clear differences between high school and university courses. 
 In high school, students usually study many subjects, such as math, literature, and science, so the knowledge is more general. 
@@ -166,6 +235,13 @@ In university, my favourite course was database management. I liked it because i
 Compared to high school, I prefer my university course more because it is directly related to my future career as a backend developer.
 Overall, both were interesting, but university courses are more useful for me in the long term
 
+❌ In university, my favourite course was database management.
+✅ At university, my favourite course was database management.
+❌ Compared to high school, I prefer my university course more because it is directly related to my future career as a backend developer.
+✅ Compared with my favourite high school subject, I prefer my university course because it is directly related to my career as a backend developer.
+❌ Overall, both were interesting, but university courses are more useful for me in the long term.
+✅ Overall, I enjoyed both subjects, but I find university courses more useful in the long run.
+
 => In high school, my favorite subject was mathematics because I enjoyed solving problems, and it was very logical. 
 In university, my major course was database management. 
 I liked this because it was much more practical, and I could apply what I learned to real projects, especially using SQL. 
@@ -187,6 +263,15 @@ In high school, my least favourite subject was literature because I found it qui
 In university, I didn’t like some theoretical courses, especially algorithms. It was quite challenging and required a lot of logical thinking, which made it stressful at times.
 Compared to high school, I think the university course was more difficult, but also more useful. So I would say I disliked literature more because I couldn’t see its practical value for me.
 Overall, both were not very enjoyable, but they still helped me improve different skills.
+
+❌ In university, I didn’t like some theoretical courses, especially algorithms.
+✅ At university, I didn’t enjoy some theoretical courses, especially the algorithms course.
+❌ It was quite challenging and required a lot of logical thinking, which made it stressful at times.
+✅ It was quite challenging and required strong logical thinking, so I sometimes found it stressful.
+❌ So I would say I disliked literature more because I couldn’t see its practical value for me.
+✅ So I would say I disliked literature more because I couldn't really see how it would be useful in my daily life or future career.
+❌ Overall, both were not very enjoyable, but they still helped me improve different skills.
+✅ Overall, neither subject was particularly enjoyable, but both helped me develop different skills.
 
 => In high school, my least favorite subject was literature because I found it quite difficult to understand, and sometimes it was a bit boring. 
 I didn't really enjoy analyzing long texts. In university, I also disliked some theoretical courses, especially algorithms. 
@@ -211,6 +296,15 @@ In university, I think my favourite year was the third year. That was when I sta
 Compared to high school, I prefer my university experience more because it was more meaningful and closely connected to my future career.
 Overall, both periods were enjoyable, but university gave me more valuable experiences.
 
+❌ In university, I think my favourite year was the third year.
+✅ At university, my favourite year was probably my third year.
+❌ That was when I started studying more specialized subjects related to my major.
+✅ That was when I started taking more specialized courses related to my major.
+❌ Compared to high school, I prefer my university experience more.
+✅ Compared with high school, I enjoyed my university experience more.
+❌ Overall, both periods were enjoyable, but university gave me more valuable experiences.
+✅ Overall, I enjoyed both stages of my education, but university provided more valuable experiences for my personal and professional growth.
+
 => In high school, my favorite year was the final year because I had already adapted to the learning environment and felt more confident. 
 I also had good relationships with my classmates and teachers. In university, I think my favorite year was the third year. 
 That was when I studied more specialized subjects related to my major, and I also worked on some practical projects. 
@@ -232,6 +326,15 @@ I think there is a big difference between teachers in high school and university
 They also pay more attention to students and often remind them about homework and exams. So the learning environment feels more supportive.
 In contrast, university lecturers are more independent in their teaching style. They mainly give lectures, and students need to study by themselves and do more research.
 Overall, I think university teachers expect students to be more responsible, while high school teachers are more supportive and involved
+
+❌ university lecturers are more independent in their teaching style
+✅ university lecturers tend to have a more independent teaching style
+❌ They mainly give lectures, and students need to study by themselves and do more research.
+✅ They mainly deliver lectures, and students are expected to study independently and conduct their own research.
+❌ So the learning environment feels more supportive.
+✅ As a result, the learning environment tends to feel more supportive.
+❌ university teachers expect students to be more responsible
+✅ university lecturers generally expect students to take greater responsibility for their own learning
 
 => I think there is a big difference between teachers in high school and university. In high school, teachers guide students closely; 
 they explain everything step by step, pay more attention to students, and remind them about homework and deadlines. 
@@ -256,6 +359,15 @@ In university, I participated in a technology club. In this club, we worked on p
 Compared to high school, I prefer the university club because it is more related to my major and future career. It also helped me improve my technical skills and meet people with similar interests.
 Overall, both experiences were enjoyable, but the university club was more meaningful for me
 
+❌ In university, I participated in a technology club.
+✅ At university, I joined a technology club.
+❌ In this club, we worked on programming projects and shared knowledge about software development.
+✅ There, we worked on programming projects and shared ideas about software development.
+❌ Compared to high school, I prefer the university club because it is more related to my major and future career.
+✅ Compared with the club I joined in high school, I preferred the university club because it was more closely related to my major and future career.
+❌ Overall, both experiences were enjoyable, but the university club was more meaningful for me.
+✅ Overall, I enjoyed both experiences, but I found the university club more meaningful and beneficial.
+
 => In high school, I joined a sports club, and I played football with my classmates. It was a fun way to relax, and I took part in small competitions. 
 In university, I joined a tech club, where I worked on software development projects. Compared to high school, this club was more related to my major, 
 and I was able to gain practical skills. Overall, both experiences were enjoyable, but the university club was more meaningful for me.
@@ -274,6 +386,15 @@ I think students in both high school and university have their own interesting p
 In university, students are more mature and focused on their goals. They are interested in their major and often spend time developing their skills and knowledge.
 Compared to high school students, I find university students more interesting because they have clearer goals and more diverse ideas.
 Overall, both groups are interesting in different ways, but university students seem more independent and serious about their future
+
+❌ students in both high school and university have their own interesting points
+✅ students in both high school and university have their own unique qualities
+❌ In university, students are more mature and focused on their goals.
+✅ University students tend to be more mature and focused on their long-term goals.
+❌ They are interested in their major and often spend time developing their skills and knowledge.
+✅ They are usually more engaged in their chosen field and spend a lot of time developing relevant skills and knowledge.
+❌ university students seem more independent and serious about their future
+✅ university students tend to be more independent and more concerned about their future careers
 
 => I think students in both high school and university have their own interesting traits. 
 In high school, they are curious and more open to trying different activities. 

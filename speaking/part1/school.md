@@ -9,6 +9,22 @@ economy at my hometown is developing. if we come to this place, you can see that
 3 to 18 years old.  
 
 ```
+
+❌ When i was 5, i started attending preschool at my hometown.
+✅ When I was 5 years old, I started attending a preschool in my hometown.
+❌ As normal, the kids should start go to school when them were 3 years old.
+✅ Normally, children start going to school when they are around 3 years old.
+❌ the local economy is not strong
+✅ the local economy was not very strong
+❌ the public facilities is not fully
+✅ public educational facilities were not fully developed
+❌ Now, the economy at my hometown is developing.
+✅ Nowadays, my hometown's economy is developing rapidly.
+❌ there are fully school for kids from 3 to 18 years old.
+✅ there are schools for children from 3 to 18 years old.
+❌ if we come to this place, you can see that...
+✅ if you visit my hometown today, you can see that...
+
 => Comment: The last part drifts away from the question.
 
 ```
@@ -37,6 +53,23 @@ I remember that I spended two weeks before that exam for studying a lot and the 
 After that, my parent award me a new machanic pen that i had wished to get this. That experience was still the happiest memory for me.
 ```
 
+❌ One of happiest memories is the achivement I got when I was 2 grade.
+✅ One of my happiest memories is the achievement I received when I was in second grade.
+❌ I have to take part in the final exam so that teachers can asset the student abilities.
+✅ We had to take final exams so that teachers could assess students' abilities.
+❌ And I was in the top 3 of the grade in that year.
+✅ I ranked in the top three students in my grade that year.
+❌ I spended two weeks before that exam for studying a lot.
+✅ I spent two weeks studying hard before that exam.
+❌ the result make me happy.
+✅ The result made me very happy.
+❌ my parent award me a new machanic pen
+✅ My parents rewarded me with a new mechanical pencil.
+❌ that i had wished to get this.
+✅ which I had wanted for a long time.
+❌ That experience was still the happiest memory for me.
+✅ That experience is still one of my happiest school memories.
+
 => This outline is actually good for Band 6.5
 ```
 One of my happiest memories from my early school years was when I achieved a high ranking in my class when I was in second grade. 
@@ -64,6 +97,19 @@ I went to elementary school in Lam Dong, which is my hometown. My family spend a
 They need to take care the children and do for a living at the same time. 
 So it's convenient that i went to the elementary school near my house when i was small. 
 It was located in the next town, it took me 15 minutes walking from my house to there.  
+
+❌ My family spend almost time at their farm.
+✅ My family spent most of their time working on their farm.
+❌ They need to take care the children and do for a living at the same time.
+✅ They needed to take care of their children and earn a living at the same time.
+❌ So it's convenient that i went to the elementary school near my house when i was small.
+✅ So it was convenient for me to attend an elementary school near my house when I was young.
+❌ It was located in the next town.
+✅ It was located in a nearby town.
+❌ it took me 15 minutes walking from my house to there.
+✅ It took me about 15 minutes to walk there from my house.
+❌ i went to the elementary school
+✅ I went to an elementary school
 
 => I went to elementary school in Lam Dong, which is my hometown in the Central Highlands of Vietnam. 
 At that time, my family was living there and working mainly on a small farm, 
@@ -95,6 +141,31 @@ and a rest place, so I don't need to come home back and return school later. Her
 in my head.  
 ```
 
+❌ When talk about my elementary teachers, I always remember my Math teacher.
+✅ When I think about my elementary school teachers, I always remember my Math teacher.
+❌ She had well-proportioned body
+✅ She was of average height and had a pleasant appearance.
+❌ she is very kind
+✅ she was very kind
+❌ take care a lot with their students
+✅ she cared a lot about her students
+❌ my parent was mainly on the harvest
+✅ my parents were busy with the harvest season
+❌ I had to spend about 30 minutes to walk home
+✅ I had to walk about 30 minutes to get home
+❌ at the middle of the day
+✅ at lunchtime / in the middle of the day
+❌ I must to go to school at the begining of the afternoon
+✅ I had to return to school in the early afternoon
+❌ she spend her money to prepare for me a lunch
+✅ she spent her own money to buy me lunch
+❌ and a rest place
+✅ and gave me a place to rest
+❌ so I don't need to come home back and return school later
+✅ so I didn't need to go home and then come back to school
+❌ Her action took her image the most memorable in my head.
+✅ That act of kindness made her one of the most memorable teachers in my life
+
 ```
 Outline: Introduce your Math teacher -> Describe her personality (kind, caring, supportive)
 -> Give a specific memory (she helped you with food and a place to rest) -> Explain why this moment made her unforgettable
@@ -118,6 +189,19 @@ When talk about my middle school teachers, the teacher make me memorable is my b
  Beside the biology teacher role, she played a role in managing school students. So She is very strict, 
 but quite easygoing with me. She often lent me her personal laptop so that I can met the deadline. So although it's ten years
 far away, but this action still is one of the most memorable action about her. 
+
+❌ When talk about my middle school teachers, the teacher make me memorable is my biology teacher.
+✅ When I think about my middle school teachers, the one I remember most is my Biology teacher.
+❌ Beside the biology teacher role, she played a role in managing school students.
+✅ Besides teaching Biology, she was also responsible for student management at the school.
+❌ So She is very strict, but quite easygoing with me.
+✅ She was quite strict with students, but she was also very friendly and approachable with me.
+❌ She often lent me her personal laptop so that I can met the deadline.
+✅ She often lent me her personal laptop so that I could meet my deadlines.
+❌ So although it's ten years far away, but this action still is one of the most memorable action about her.
+✅ Even though it was about ten years ago, that act of kindness is still one of my strongest memories of her.
+❌ one of the most memorable action
+✅ one of the most memorable actions
 
 => When I think about my middle school teachers, the one I remember most is my biology teacher. 
 Besides teaching biology, she was also responsible for managing students at school, so she was quite strict with everyone. 
@@ -146,6 +230,21 @@ Even though / it / be / about ten years ago / I / still / remember / her / clear
 When I was in middle school, my most favourite subject is Math. Math is the subject that strongly logical and I feel comfatable 
 when handle its issue, it's good for my logical thinking. I remember that every year in middle school, I always took part in
 the Math competition with others from other school to get the reward. Over 10 years ago, it makes me very happy when talking about Math.
+
+❌ my most favourite subject is Math.
+✅ my favourite subject was Math.
+❌ Math is the subject that strongly logical
+✅ Math is a highly logical subject.
+❌ I feel comfatable when handle its issue
+✅ I felt comfortable when solving mathematical problems.
+❌ it's good for my logical thinking.
+✅ It helped me develop my logical thinking skills.
+❌ I always took part in the Math competition with others from other school
+✅ I regularly took part in math competitions against students from other schools.
+❌ to get the reward.
+✅ to win prizes.
+❌ Over 10 years ago, it makes me very happy when talking about Math.
+✅ Even though it was more than 10 years ago, I still feel happy when talking about Math
 
 ============================
 Outline: State the subject clearly -> Explain why you liked it -> Give a specific example or experience -> Conclude with your feeling now
@@ -177,6 +276,17 @@ After school time, I usually played a sport with my classmate, especially footba
 after that, we spent 1 hour for football. It's one of the most unforgetable memory when talking about the middle school. 
 Besides that, I often take little time to help my teacher to prepare some paper work at the last day of the week.
 
+❌ After school time, I usually played a sport with my classmate, especially footbal.
+✅ After school, I usually played sports with my classmates, especially football.
+❌ The last lession of school day finished at 5pm.
+✅ The last lesson of the school day finished at 5 p.m.
+❌ we spent 1 hour for football.
+✅ we spent about an hour playing football.
+❌ It's one of the most unforgetable memory when talking about the middle school.
+✅ It's one of my most unforgettable memories from middle school.
+❌ Besides that, I often take little time to help my teacher to prepare some paper work at the last day of the week.
+✅ Besides that, I often spent some time helping my teachers prepare paperwork at the weekend
+
 => After school, I usually played football with my classmates. Our last lesson normally ended at around 5 p.m., 
 and after that we would spend about an hour playing on the school field. It was a great way to relax after a long day of studying, 
 and honestly, it’s one of my favorite memories from middle school.
@@ -199,6 +309,15 @@ practice each match -> Due to high studying workload, except football, spend all
 Yes, I usually played football after school time third a week. In high school, I and my classmates took part in the
 football competition. Due to high pressure, we had to spend more time for practicing during each match. Exception football,
 because of high studying workload and graduate exam, I spend all time for stuying and don't join other activities. 
+
+❌ Yes, I usually played football after school time third a week.
+✅ Yes, I usually played football after school three times a week.
+❌ In high school, I and my classmates took part in the football competition.
+✅ In high school, my classmates and I took part in football competitions.
+❌ Due to high pressure, we had to spend more time for practicing during each match.
+✅ Due to the competitive pressure, we had to spend more time practicing before each match.
+❌ Exception football, because of high studying workload and graduate exam, I spend all time for stuying and don't join other activities.
+✅ Apart from football, because of my heavy study workload and graduation exams, I spent most of my time studying and didn't take part in other activities.
 
 => 
 Outline: Yes → continued playing football -> Joined school football competitions -> Training became more intense and time-consuming
@@ -225,6 +344,23 @@ So I exhausted at the end of the day -> those days become the most memorable.
 I spent most of my time for studying and preparing for the graduation exam. Due to this exam was coming, I mainly focused on studing,
 around 12 hours per day. So it made me exhausted at the end of the day. Those days become the most memorable for me when
 it comes to studying in high school
+
+❌ I spent most of my time for studying and preparing for the graduation exam.
+✅ I spent most of my time studying and preparing for the graduation exam.
+❌ Due to this exam was coming
+✅ Because the exam was approaching
+✅ As the graduation exam was approaching
+❌ I mainly focused on studing
+✅ I mainly focused on studying
+❌ around 12 hours per day
+✅ for around 12 hours a day
+❌ So it made me exhausted at the end of the day.
+✅ As a result, I felt exhausted at the end of the day.
+❌ Those days become the most memorable for me
+✅ Those days have become some of the most memorable moments for me.
+✅ Looking back, that period is one of the most memorable times of my high school life.
+❌ when it comes to studying in high school
+✅ when I think about my high school years.
 
 => 
 Outline: 
@@ -254,6 +390,17 @@ I think teaching knowedge aspect is very important. Without the knowledge from t
 new knowledge by myself. In school, I always concentrate on the teacher's lesson and would ask them immediatly if I don't understand.
 These habits make me more success in the current time.
 
+❌ I think teaching knowedge aspect is very important.
+✅ I think acquiring knowledge from teachers is very important.
+❌ Without the knowledge from teacher, I usually take more time to investigate new knowledge by myself.
+✅ Without guidance from teachers, it would take me much longer to learn new things on my own.
+❌ In school, I always concentrate on the teacher's lesson
+✅ At school, I always paid close attention to my teachers' lessons
+❌ would ask them immediatly if I don't understand.
+✅ and asked questions immediately whenever I didn't understand something.
+❌ These habits make me more success in the current time.
+✅ These habits have contributed greatly to my success today
+
 => 
 Outline: Teaching knowledge is very important -> learning by yourself takes much longer 
 -> students should focus carefully in class and ask questions when confused -> these habits help improve understanding 
@@ -279,6 +426,21 @@ knowledge will improve the level of understanding -> In high school, took part i
 Developing creativity is important for me. If you practice your knowledge to practical and make a new thing base on these knowledge,
 it would prove your understanding about the conceps studying in school. In high school, I often took part in some creative competitions
 to re-verify something I learned. These time is the most memorable in my head.
+
+❌ If you practice your knowledge to practical
+✅ If you apply your knowledge in practical situations
+❌ make a new thing base on these knowledge
+✅ create something new based on this knowledge
+❌ these knowledge
+✅ this knowledge
+❌ it would prove your understanding about the conceps studying in school
+✅ it helps demonstrate your understanding of the concepts you learn at school
+❌ In high school, I often took part in some creative competitions
+✅ In high school, I often took part in creative competitions
+❌ to re-verify something I learned
+✅ to test and apply what I had learned
+❌ These time is the most memorable in my head.
+✅ Those experiences are some of the most memorable moments in my life
 
 Outline:
 Developing creativity is important -> helps people apply theoretical knowledge in practical situations 
@@ -312,6 +474,19 @@ at those ages easily effect by environment, so that their personality is changed
 When I was in middle school, teachers hold a seminar about developing personality for their students once a month. 
 These concept is the memorable for me and still effect me in my current life.
 
+❌ the most noticeable period is in middle school
+✅ the most influential period is during middle school
+❌ The students at those ages easily effect by environment
+✅ Students at that age are easily influenced by their environment
+❌ their personality is changed following specific direction
+✅ their personalities can develop in a particular direction
+❌ teachers hold a seminar about developing personality for their students once a month
+✅ teachers held monthly seminars on personal development
+❌ These concept is the memorable for me
+✅ Those concepts were very memorable for me
+❌ still effect me in my current life
+✅ still influence me in my daily life today
+
 =>
 Outline: Very important → middle school is the most noticeable period for personality development 
 → students at that age are easily influenced by their environment 
@@ -339,6 +514,21 @@ I believe that teaching how to think is important. The thinking way is usually e
 So this causes some different behavior about one person or another result when do something. In high school, teachers usually
 held some seminars about this twice a year to educate their student how to properly think about specific issues. These knowledge
 still effect me and make me much more mature in my current life.
+
+❌ The thinking way is usually effected by surrounding.
+✅ A person's way of thinking is usually influenced by their surroundings.
+❌ from family, friend, school.
+✅ such as family, friends, and school.
+❌ So this causes some different behavior about one person or another result when do something.
+✅ As a result, people may behave differently or achieve different outcomes when they do the same thing.
+❌ teachers usually held some seminars about this twice a year
+✅ teachers usually held seminars on this topic twice a year
+❌ to educate their student how to properly think about specific issues.
+✅ to teach students how to think critically about specific issues.
+❌ These knowledge still effect me
+✅ This knowledge still affects me
+❌ make me much more mature in my current life.
+✅ and has made me more mature in my daily life
 
 => 
 Outline: Important -> the way people think shapes behavior and decisions -> my high school held seminars twice a year 
@@ -377,6 +567,23 @@ The way of their thinking are influenced by our surrounding, so this lead to mak
 So my middle school usually held some siminar about this aspect so that they could convey knowledge to their student.
 I found these session very valuable and they still effect me in my current life
 
+❌ teaching about the right and wrong
+✅ teaching students about right and wrong
+❌ it is noticable when talking students in middle school
+✅ it is especially important for middle school students
+❌ The way of their thinking are influenced by our surrounding
+✅ Their way of thinking is influenced by their surroundings
+❌ this lead to make their behavious easy to change
+✅ this makes their behavior easier to influence
+❌ So my middle school usually held some siminar about this aspect
+✅ My middle school often held seminars on this topic
+❌ so that they could convey knowledge to their student
+✅ so that they could teach students important moral values
+❌ I found these session very valuable
+✅ I found these sessions very valuable
+❌ they still effect me in my current life
+✅ they still influence me in my daily life
+
 =>
 Outline: Very important → especially in middle school → students’ thinking is strongly influenced by surroundings 
 → their behavior is easy to shape and change → schools should clearly teach right and wrong
@@ -412,6 +619,17 @@ I believe that teaching how to get along with other is important. This makes sch
 much more helpful relationship. .When I was in school, I usually took part in some outdoor activies with my classmates and
 help others when they met comlicated issues. These relationship still continue to this day and I still do those behavious
 to almost current relationship in my current life. 
+
+❌ Teaching how to get along with other is important.
+✅ Teaching how to get along with others is important.
+❌ This makes school life more meaningful and achieves much more helpful relationship.
+✅ This makes school life more meaningful and helps build more meaningful relationships.
+❌ I usually took part in some outdoor activies with my classmates and help others when they met comlicated issues.
+✅ I used to take part in outdoor activities with my classmates and help others when they faced difficult problems.
+❌ These relationship still continue to this day
+✅ These relationships still continue to this day
+❌ I still do those behavious to almost current relationship in my current life.
+✅ I still apply these behaviors in my current relationships today
 
 =>
 Outline: important -> makes school life more meaningful -> students support each other when facing problems 
@@ -456,6 +674,27 @@ Except for the 12th grade, students spend almost their time preparing for the un
 beginning of getting a good job. But you are in university, the knowledge you learned really help you to get a good job.
 And base on these knowledge, I'm getting a good job now and that makes me proud of myself. 
 
+❌ I think helping to get a good job is important or not depending on the current school.
+✅ I think the importance of getting a good job depends on the stage of education a person is in.
+❌ If you are down from high school
+✅ If you are in high school / When you are in high school
+❌ this aspect is not important
+✅ this is not very important at that stage
+❌ students at that age just mainly focus on learning foundation knowledge
+✅ students at that age mainly focus on building foundational knowledge
+❌ not clearly related one specific field
+✅ not yet related to a specific field
+❌ Except for the 12th grade
+✅ Except in the final year of high school / In the final year of high school
+❌ spend almost their time preparing for the university entrance exam
+✅ spend most of their time preparing for university entrance exams
+❌ this is just a beginning of getting a good job
+✅ this is just the beginning of preparing for a good job
+❌ you are in university, the knowledge you learned really help you
+✅ when you are at university, the knowledge you learn really helps you
+❌ base on these knowledge
+✅ based on this knowledge
+
 =>
 Outline:
 importance depends on education stage -> high school builds basic knowledge -> university provides career-specific skills -> helps secure a good job now
@@ -490,6 +729,23 @@ after these school days -> this is a reason that make parent happy
 I think this goad is not important. Education mainly focus on convey knowledge to students, it makes them more success, mature
 in their life. Making parents happy is just one of many result of this progress. I go to school to mainly get knowledge
 and practice them in reality, so that I get the dream job and make myself more mature. This is a really reason that make parent happy
+
+❌ this goad is not important
+✅ this goal is not important
+❌ Education mainly focus on convey knowledge to students
+✅ Education mainly focuses on conveying knowledge to students
+❌ it makes them more success, mature in their life
+✅ it helps them become more successful and mature in life
+❌ Making parents happy is just one of many result of this progress
+✅ Making parents happy is just one of many results of this process
+❌ I go to school to mainly get knowledge
+✅ I go to school mainly to gain knowledge
+❌ practice them in reality
+✅ apply it in real life
+❌ I get the dream job
+✅ I get my dream job
+❌ This is a really reason that make parent happy
+✅ This is a real reason that makes parents happy
 
 Outline:
 Not very important → education mainly focuses on students’ personal development and knowledge 
@@ -528,6 +784,22 @@ and practical skills that they can apply in the future, that make them more inde
 is the outcome of this progres. With these strong knowledge about specific issue, they can easily keep someone out of trouble.
 In my current job, with 6 years of studying and working in techical field, I often help my teammates correct their design before
 give them to customer.  
+
+❌ Education mainly help students gain foundation knowlegde
+✅ Education mainly helps students gain foundational knowledge
+❌ practical skills that they can apply in the future, that make them more independent
+✅ practical skills that they can apply in the future, which makes them more independent
+❌ this goal is the outcome of this progres
+✅ this goal is the outcome of this progress
+❌ With these strong knowledge about specific issue
+✅ With strong knowledge about specific issues
+❌ they can easily keep someone out of trouble
+⚠️ (natural issue) This phrase is unclear in context → better:
+✅ they can more easily avoid problems / prevent mistakes
+❌ 6 years of studying and working in techical field
+✅ 6 years of studying and working in the technical field
+❌ I often help my teammates correct their design before give them to customer
+✅ I often help my teammates correct their designs before they give them to the customer
 
 Outline:
 not very important -> education helps people gain knowledge and practical skills -> these make people independent and mature 

@@ -11,6 +11,9 @@ My main responsibility is to build and maintain server-side applications, as wel
 I’ve been working in the technology field for about one year, so I’m still gaining experience. 
 Overall, I find my job quite interesting and challenging because I enjoy solving technical problems and learning new skills.
 
+❌ I’ve been working in the technology field for about one year, so I’m still gaining experience.
+✅ I’ve been working in the tech industry for about a year, so I’m still gaining valuable experience.
+
 => I work as a software engineer specializing in backend development. My responsibilities include building 
 and maintaining web applications, managing databases, and working with APIs. 
 I’ve been in the tech field for about a year, and I really enjoy solving problems and learning new skills
@@ -29,6 +32,13 @@ I work for a technology company. It’s based in my city, but sometimes I work r
 The company mainly develops software products, and I work as a backend developer there. 
 I think it’s a good working environment because it’s quite professional and supportive.
 
+❌ It’s based in my city, but sometimes I work remotely from home.
+✅ It’s based in my city, although I sometimes work remotely from home.
+❌ The company mainly develops software products.
+✅ The company mainly develops software solutions.
+❌ I think it’s a good working environment because it’s quite professional and supportive.
+✅ I think it’s a great place to work because the environment is professional and supportive.
+
 => I work for a technology company based in my city. Sometimes I also work remotely from home. 
 The company mainly develops software products, and I work there as a backend developer. 
 I think it’s a great environment because it’s professional and supportive
@@ -46,6 +56,9 @@ Direct answer -> Add a small detail -> Optional feeling
 I’ve been working there for about one year. I’m still relatively new, so I’m learning a lot of new things, 
 especially in backend development. Overall, it’s been a great experience so far.
 
+❌ I've been working there for about one year.
+✅ I've been working there for about a year.
+
 => I’ve been working there for about a year. I’m still relatively new, 
 so I’m learning a lot, especially in backend development. Overall, it’s been a great experience so far
 
@@ -61,6 +74,9 @@ so I’m learning a lot, especially in backend development. Overall, it’s been
 As a backend developer, my main responsibilities include building and maintaining server-side applications. 
 I also work with databases and develop APIs for the system. In addition, I sometimes fix bugs and improve system performance. 
 Overall, my job requires both technical skills and problem-solving ability.
+
+❌ Overall, my job requires both technical skills and problem-solving ability.
+✅ Overall, my job requires both technical skills and strong problem-solving abilities.
 
 => As a backend developer, my main responsibilities include building and maintaining web applications. 
 I also work with databases and develop APIs. In addition, I fix bugs and improve system performance. 
@@ -79,6 +95,9 @@ Well, a typical day for me usually starts at around 8:30 a.m. I begin by checkin
 After that, I spend most of my time coding, building backend features, or working with APIs and databases. 
 Sometimes, I also have meetings with my team to discuss progress. 
 I usually finish work in the late afternoon, and overall, my day is quite busy but productive.
+
+❌ I usually finish work in the late afternoon, and overall, my day is quite busy but productive.
+✅ I usually finish work in the late afternoon, and overall, it's quite a busy but productive day.
 
 => A typical day for me usually starts around 8:30 a.m. I start by checking emails and reviewing my tasks for the day. 
 After that, I spend most of my time coding, building backend features, and working with APIs and databases. 
@@ -99,6 +118,9 @@ Yes, I would say my job is quite rewarding. As a backend developer, I can learn 
 and improve my problem-solving ability. Also, it feels satisfying when I successfully build a feature or fix a difficult bug. 
 Although the job can sometimes be stressful, I still find it very meaningful.
 
+❌ improve my problem-solving ability.
+✅ improve my problem-solving skills.
+
 => Yes, I would say my job is quite rewarding. As a backend developer, I can learn a lot of new technical skills and 
 improve my problem-solving ability. It’s really satisfying when I successfully build a feature or fix a difficult bug. 
 Although the job can sometimes be stressful, I still find it very meaningful.
@@ -115,6 +137,9 @@ Although the job can sometimes be stressful, I still find it very meaningful.
 If I could change one thing about my job, I would probably reduce the workload during busy periods. 
 Sometimes, I have to deal with tight deadlines, which can be quite stressful. If the workload were more balanced, 
 I think I could work more efficiently and maintain a better work-life balance.
+
+❌ I would probably reduce the workload during busy periods.
+✅ I would probably like to reduce the workload during particularly busy periods.
 
 => If I could change one thing about my job, I would probably reduce my workload during busy periods. 
 Sometimes, I have to meet tight deadlines, which can be quite stressful. If the workload were more balanced, 
@@ -133,6 +158,9 @@ I think I’ll continue working in this job for at least a few more years. Since
 I still have a lot to learn and gain more experience. In the future, I might consider moving to a more advanced role, 
 but for now, I want to focus on improving my skills
 
+❌ Since I’ve only been working for about a year, I still have a lot to learn and gain more experience.
+✅ Since I’ve only been in this role for about a year, I still have a lot to learn and experience to gain.
+
 => I think I’ll continue working in this job for at least a few more years. Since I’ve only been here about a year, I still have a lot to learn and gain more experience. 
 In the future, I might consider moving to a more advanced role but for now, I want to focus on improving my skills
 
@@ -148,6 +176,9 @@ In the future, I might consider moving to a more advanced role but for now, I wa
 My work hours are quite standard. I usually start at around 8:30 a.m. and finish at about 6 p.m., 
 so my work day is around 8 hours. I work five days a week, from Monday to Friday. 
 Overall, the schedule is quite reasonable, although it can be a bit busy at times.
+
+❌ I usually start at around 8:30 a.m. and finish at about 6 p.m., so my work day is around 8 hours.
+✅ I usually start at around 8:30 a.m. and finish at about 6 p.m. Including a lunch break, my work day is around 8 hours.
 
 => My work hours are pretty standard. I usually start at around 8:30 a.m. and finish by 6 p.m., so my workday is about eight hours. 
 I work five days a week, from Monday to Friday. Overall, the schedule is quite reasonable, though it can be a bit busy at times 
@@ -165,6 +196,9 @@ I found my job through an online job website. I saw a job advertisement for a ba
 After that, I went through a couple of interviews, and fortunately, I got the job. It was a bit challenging, 
 but I think it was a great opportunity for me.
 
+❌ I found my job through an online job website.
+✅ I found my job through an online job portal.
+
 => I found my job through an online job website. I saw an advertisement for a backend developer position and decided to apply. 
 After that, I went through a couple of interviews, and fortunately, I got the job. It was a big challenge, 
 but I think it’s a great opportunity for me.
@@ -181,6 +215,9 @@ but I think it’s a great opportunity for me.
 If I were to give advice to someone starting out in this field, I would suggest focusing on the basics first, 
 especially programming and problem-solving skills. It’s also important to practice regularly and work on real projects to gain experience. 
 In addition, they should be patient because learning technology takes time. Overall, I think consistency is the key to success.
+
+❌ Overall, I think consistency is the key to success.
+✅ Overall, I think consistency is one of the most important factors for success.
 
 => If I were to give advice to someone starting out in this field, I would suggest focusing on the basics first, 
 especially programming and problem-solving skills. It’s also important to practice regularly and work on their own projects to gain real experience. 
@@ -200,6 +237,9 @@ Well, currently I’m working as a software engineer.
 However, my ideal job would be a museum guide, where I would introduce exhibitions and communicate with visitors. 
 Compared to my current job, it would be much more social and less technical, which I think I would really enjoy.
 
+❌ Compared to my current job, it would be much more social and less technical, which I think I would really enjoy.
+✅ Compared to my current job, the responsibilities would be much more social and less technical, which I think I would really enjoy.
+
 => Currently, I work as a software engineer, but my ideal job would be as a museum guide, where I introduce the exhibitions and interact with visitors. 
 Compared to my current job, it would be much more social and less technical, which I think I would really enjoy
 
@@ -215,6 +255,9 @@ Compared to my current job, it would be much more social and less technical, whi
 Well, in my current job as a software engineer, I usually work from around 9 a.m. to 6 p.m., but sometimes I have to work longer when there are tight deadlines. 
 However, I think a museum guide would have more regular working hours, probably following opening hours of the museum. 
 Compared to my current job, it would be more stable and less stressful, which I would prefer.
+
+❌ probably following opening hours of the museum.
+✅ probably following the museum's opening hours.
 
 => In my current job as a software engineer, I usually work from around 8:30 a.m. to 6 p.m., but sometimes I have to work longer hours when there are tight deadlines. 
 However, I think a museum guide would have more regular working hours, probably following the museum’s opening times. 
@@ -234,6 +277,9 @@ It’s also a good opportunity for career development. On the other hand, my ide
 and work in a more interesting and relaxing environment. Compared to my current job, 
 I think it would be more enjoyable, although both jobs have their own advantages.
 
+❌ It’s also a good opportunity for career development.
+✅ It also provides good opportunities for career development.
+
 => Well, in my current job as a software engineer, a positive aspect is that I can learn a lot of technical skills and gain valuable experience. 
 It’s also a great opportunity for career development. On the other hand, my ideal job as a museum guide would allow me to interact with people 
 and work in a more interesting, relaxing environment. Compared to my current job, I think it would be more enjoyable, although both jobs have their own advantages
@@ -252,6 +298,9 @@ Well, in my current job as a software engineer, one downside is the pressure fro
 I also have to deal with complex technical problems. On the other hand, being a museum guide might be less stressful, 
 but it could be a bit repetitive, since I would have to explain the same information every day. 
 Compared to my current job, I think it would be less challenging, but possibly less exciting in the long term.
+
+❌ I also have to deal with complex technical problems.
+✅ I also have to deal with complex technical issues
 
 => Well, in my current job as a software engineer, one downside is the pressure of deadlines, which can be quite stressful. 
 I also have to deal with complex technical problems. On the other hand, being a museum guide might be less stressful, but it could be a bit repetitive, 
@@ -273,6 +322,9 @@ before getting hired. However, I think becoming a museum guide might be a bit di
 or having knowledge about history and communication skills. Compared to my current job, 
 I think the process could be less technical but still competitive.
 
+❌ through an online job website
+✅ through an online job portal
+
 => Well, I found my current job as a software engineer through an online job website, and I had to go through several rounds of interviews before getting hired. 
 However, I think becoming a museum guard might be a bit different. It might be harder to apply directly to a museum, as it requires knowledge of history and communication skills. 
 Compared to my current job, I think the process could be less technical, but still quite competitive
@@ -290,6 +342,9 @@ Compared to my current job, I think the process could be less technical, but sti
 Well, I chose my current job as a software engineer mainly because it offers good career opportunities and allows me to develop my technical skills. 
 It’s also a stable job with a clear career path. However, my ideal job as a museum guide is more related to my personal interests, 
 especially my passion for history and communication. Compared to my current job, the reason is less about money and more about enjoyment.
+
+❌ Compared to my current job, the reason is less about money and more about enjoyment.
+✅ Compared to my current job, choosing that career would be less about money and more about personal enjoyment.
 
 => I chose my current job as a software engineer mainly because it offers good career opportunities and lets me develop my technical skills. 
 It’s also a stable job with a clear career path. However, my ideal job as a museum guide is more aligned with my personal interests. 
@@ -309,6 +364,9 @@ Well, in my current job as a software engineer, a typical day usually involves c
 I also spend time working with databases and APIs. However, in my ideal job as a museum guide, a typical day would be quite different. 
 I would spend most of my time introducing exhibitions and talking to visitors. Compared to my current job, 
 it would be more interactive and less technical, which I think I would enjoy more.
+
+❌ I also spend time working with databases and APIs.
+✅ I also spend time managing databases and developing APIs
 
 => In my current job as a software engineer, a typical day usually involves checking emails, working on coding tasks, and fixing bugs. 
 I also spend time working with databases and APIs. However, in my ideal job as a museum guide, a typical day would be very different. 

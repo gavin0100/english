@@ -18,6 +18,15 @@ Although both places are quite different, I’ve adapted to the fast-paced life 
 / more opportunities / work / study / although / both places / quite different / adapted to / fast-paced life / city
 ```
 
+❌ past home town and current home town
+✅ previous hometown and current hometown
+(“past hometown” sounds slightly unnatural in spoken English)
+❌ There are a lot more opportunities here
+✅ There are far more opportunities here
+(more natural and slightly stronger for Band 7)
+❌ I’ve gotten used to
+✅ I’ve become accustomed to
+
 2. What are the people like? Is it true that they are generally quite tall?
 
 **Outline**:
@@ -35,6 +44,11 @@ Overall, their personality is more important than their appearance
 => hometown / people / generally friendly / easygoing / welcoming / especially visitors / admire / kindness / as for height 
 / not especially tall / average height / compared to big cities / overall / personality more important / appearance
 ```
+
+❌ I would say they have quite an average height compared to people in big cities.
+✅ I’d say they’re about average height compared with people from larger cities.
+❌ So overall, I think personality is what really stands out rather than their physical features.
+✅ Overall, I’d say their warm personality stands out more than their appearance.
 
 3. Tell me something about the weather in your home town. If I want to visit, when is the best time to come?
 
@@ -55,6 +69,27 @@ from about November to April, when the weather is nicer and perfect for outdoor 
 / weather nicer / perfect / outdoor activities
 ```
 
+❌ There are basically two main seasons
+✅ There are two distinct seasons
+
+(“Basically” is unnecessary filler; “distinct” sounds more precise and natural.)
+
+❌ the weather is much nicer
+✅ the weather is far more pleasant
+
+(More natural and shows stronger vocabulary range.)
+
+❌ more suitable for outdoor activities
+✅ perfect for outdoor activities and sightseeing
+
+(More specific and natural for tourism context.)
+
+❌ It’s known for its fresh air
+✅ It’s famous for its fresh air and relaxing atmosphere
+
+(Slightly richer lexical resource.)
+
+
 4. But, why isn't it that good to visit during the other seasons?
 
 **Outline**:
@@ -71,6 +106,14 @@ which makes it hard to travel or do outdoor activities. For example, some places
 / for example / places / slippery / foggy / less enjoyable / tourists
 ```
 
+❌ it’s not really a good idea to visit during the rainy season
+✅ it’s generally not the best time to visit during the rainy season
+❌ because it can rain quite heavily
+✅ because there is often heavy rainfall
+❌ some places can be quite slippery or foggy
+✅ roads and tourist spots can become slippery, and visibility is often reduced by fog
+
+
 5. Are there very many places in your home town? What kind of role did your home town play in ancient Vietnam?
 
 **Outline**:
@@ -86,6 +129,15 @@ As for its role in ancient Vietnam, I’m not really sure, but I don’t think i
 => not many famous places / hometown / known for / natural beauty / mountains / forests / more peaceful place / rather than 
 / historical site / as for / role / ancient Vietnam / not really sure / not a big historical impact / probably / rural area / focused on / farming / daily life
 ```
+
+❌ there aren’t that many famous places in my hometown
+✅ my hometown doesn’t have many well-known landmarks
+❌ It’s more of a quiet place rather than a tourist hotspot
+✅ It’s generally a peaceful area rather than a major tourist destination
+❌ I’m not really sure
+✅ I’m not entirely sure about the historical details
+❌ It was probably more of a rural area where people focused on farming and daily life
+✅ It was likely a rural region where most people were engaged in agriculture and local trade
 
 6. Are there any other interesting facts about your home town?
 **Outline**:
@@ -105,6 +157,27 @@ which attract a lot of visitors each year. Personally, I think these things make
 / attract / visitors each year / personally / unique / enjoyable place to visit
 ```
 
+❌ One of the most notable things is its cool climate
+✅ One interesting thing about my hometown is its cool weather
+
+(More natural for spoken IELTS Part 1)
+
+❌ which is quite unusual compared to other places in Vietnam
+✅ which is quite rare in Vietnam because most places are much hotter
+
+(More specific and conversational)
+
+❌ Another interesting feature is that it’s well known for its coffee and flower farms
+✅ It’s also famous for its coffee plantations and beautiful flower gardens
+
+(“coffee plantations” sounds more natural and precise)
+
+❌ Personally, I think these things make my hometown a really unique and enjoyable place to visit
+✅ Personally, I’m really proud of that because it makes my hometown a special place for both locals and tourists
+
+(Stronger personal connection, which examiners like)
+
+
 7. What are the special products from your home town? Any special foods or clothes, or arts and crafts
 **Outline**:
 Yes → Product → Why → Detail → Use → Feeling
@@ -121,6 +194,27 @@ Personally, I think it’s a very special product, and it also plays an importan
 => yes / hometown / well-known for / growing durians / many local people / cultivate / main agricultural products / area 
 / fruit / very popular / strong flavor / eaten fresh / used in desserts / personally / special product / important role / local economy
 ```
+
+❌ it has become one of the main agricultural products in the area
+✅ it’s one of the most famous local products in my hometown
+
+(More natural and direct for speaking)
+
+❌ The fruit is quite popular because of its strong flavor
+✅ It’s popular because it has a rich and distinctive flavor
+
+(“strong flavor” is understandable but sounds less natural here)
+
+❌ it’s often eaten fresh or used in desserts
+✅ People usually eat it fresh or use it to make desserts like cakes and smoothies
+
+(More specific and vivid)
+
+❌ it also plays an important role in the local economy
+✅ it’s also important because many local families earn their living from growing and selling it
+
+(More personal and natural explanation)
+
 
 8. What do you think is the biggest difference between your home town and Ho Chi Minh City?
 **Outline**:
@@ -140,6 +234,26 @@ Because of that, life in the city can be more stressful, but it also offers more
 / more stressful / also offers / more opportunities
 ```
 
+❌ My hometown is much more peaceful and slow-paced
+✅ My hometown is much quieter and has a slower pace of life
+
+(More natural spoken phrasing)
+
+❌ with a quieter environment and fewer people
+✅ because there are fewer people and less noise
+
+(More direct and conversational)
+
+❌ with a lot of traffic and activities happening all the time
+✅ with heavy traffic and lots of things going on all the time
+
+(Sounds more native-like)
+
+❌ Because of that, life in the city can be more stressful
+✅ As a result, city life can sometimes feel more stressful
+
+(Smoother transition)
+
 9. Would you mind giving me your e-mail address so that I can keep in touch with you?
 
 **Outline**:
@@ -153,6 +267,27 @@ Of course, I don’t mind at all. My email address is [your email]. Feel free to
 
 => of course / don’t mind / email address / vongduy0100@email.com/ feel free / contact me / anytime / happy / stay in touch
 ```
+
+❌ Of course, I don’t mind at all
+✅ Sure, I’d be happy to
+
+(More natural spoken English)
+
+❌ My email address is [your email]
+✅ I can give it to you after this conversation
+
+(Avoid unnatural placeholder; sounds more realistic)
+
+❌ Feel free to contact me anytime
+✅ Just send me a message whenever you like
+
+(More natural and friendly)
+
+❌ I’d be happy to keep in touch
+✅ It’d be nice to stay in touch
+
+(More conversational)
+
 
 10. .with the "size" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
 
@@ -174,6 +309,27 @@ offers more opportunities for work and entertainment.
 / while / more dynamic / offers / work / entertainment opportunities
 ```
 
+❌ Compared to Ho Chi Minh City, my hometown has a smaller area and a lower population
+✅ It’s much smaller, with fewer people and less crowded streets
+
+(More natural spoken English)
+
+❌ a large and crowded urban area
+✅ a huge and busy city
+
+(Simpler and more natural for speaking)
+
+❌ Because of its smaller size
+✅ Because it’s smaller
+
+(Less formal)
+
+❌ offers more opportunities for work and entertainment
+✅ offers more job opportunities and things to do
+
+(More natural collocation)
+
+
 11. With the "population" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
 
 **Outline**:
@@ -192,6 +348,27 @@ while Ho Chi Minh City can be very busy due to its large population.
 / densely populated / whereas / more spacious / not overcrowded / because of / smaller population / life / calmer / less stressful 
 / city / very busy / large population
 ```
+
+❌ it is much less populated than Ho Chi Minh City
+✅ it has a much smaller population than Ho Chi Minh City
+
+(“less populated” is understandable, but this sounds more natural)
+
+❌ it has a huge number of people
+✅ it has a much larger population
+
+(More precise and natural comparison)
+
+❌ Because of the smaller population
+✅ Because there are fewer people
+
+(More conversational)
+
+❌ Ho Chi Minh City can be very busy due to its large population
+✅ Ho Chi Minh City feels much busier because so many people live there
+
+(More natural spoken style)
+
 
 12. With the "location" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
 
@@ -212,6 +389,26 @@ Because of its location, my hometown is more peaceful and calm, whereas the city
 / southern part / large urban area / compared to / more developed / densely built / while / more rural / surrounded by nature 
 / because of / location / more peaceful / calm / whereas / more vibrant / active
 ```
+
+❌ which is located in the Central Highlands of Vietnam
+✅ which is in the Central Highlands of Vietnam
+
+(Shorter and more natural for speaking)
+
+❌ is situated in the southern part of the country
+✅ is down in southern Vietnam
+
+(More natural spoken style)
+
+❌ it is much more developed and densely built
+✅ it’s far more built-up and developed
+
+(Better collocation)
+
+❌ Because of its location
+✅ Since it’s located in the highlands
+
+(More natural explanation)
 
 13. With the "Weather" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
 
@@ -234,6 +431,26 @@ Overall, I think the weather in my hometown is more enjoyable, while Ho Chi Minh
 / hot season / both places / rainy / dry seasons / rain / heavier / overall / more enjoyable / while / hotter / more tiring
 ```
 
+❌ the temperature is usually lower and more comfortable
+✅ the weather is generally cooler and more comfortable
+
+(More natural spoken phrasing)
+
+❌ the city often feels more uncomfortable
+✅ the city can feel much less comfortable
+
+(Smoother comparison)
+
+❌ my hometown has a milder and cooler climate
+✅ my hometown tends to be milder and fresher
+
+(Avoid repeating “climate”)
+
+❌ Ho Chi Minh City is hotter and more crowded
+✅ Ho Chi Minh City feels hotter and much busier
+
+(“crowded” doesn’t directly describe weather; “busier” fits better here)
+
 14. With the "Transportation system" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
 
 **Outline**:
@@ -253,6 +470,27 @@ the traffic in the city is often very heavy and crowded, whereas in my hometown,
 / public transport / limited / in contrast / more developed / modern system / buses / taxis / metro / more convenient 
 / get around / however / large population / traffic / very heavy / crowded / whereas / lighter / less stressful
 ```
+
+❌ it is less developed than Ho Chi Minh City
+✅ its transport system is less developed than Ho Chi Minh City’s
+
+(Clearer comparison)
+
+❌ Most people in my hometown rely on motorbikes to travel and transport goods
+✅ Most people mainly use motorbikes to get around
+
+(More natural and concise)
+
+❌ There are many options such as buses, taxis, and a metro system
+✅ People have more choices, like buses, taxis, and even the metro
+
+(More conversational)
+
+❌ traffic is often very heavy and crowded
+✅ traffic is usually much heavier and more congested
+
+(“congested” is stronger transport vocabulary)
+
 
 15. With the "People" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
 
@@ -274,6 +512,26 @@ Overall, people in my hometown tend to enjoy a more peaceful and balanced life.
 / easygoing / slower lifestyle / less stressful / in contrast / busier / more dynamic / fast-paced life / compared to 
 / work harder / less free time / overall / more peaceful / balanced life
 ```
+
+❌ they are generally kind and friendly
+✅ people are generally warm and friendly
+
+(“warm and friendly” is more natural collocation)
+
+❌ due to the fast-paced lifestyle
+✅ because life there is much faster-paced
+
+(More conversational)
+
+❌ people in the city often work harder and have less free time
+✅ city residents usually have busier schedules and less free time
+
+(More varied vocabulary)
+
+❌ tend to enjoy a more peaceful and balanced life
+✅ usually have a calmer and more balanced lifestyle
+
+(Smoother phrasing)
 
 
 16. With the "Places to visit" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
@@ -297,6 +555,26 @@ and busy markets like Ben Thanh Market. Compared to my hometown, the city is mor
 / shopping malls / busy markets / Ben Thanh Market / compared to / more modern / exciting / while / more relaxing / close to nature
 ```
 
+❌ it is well known for its natural attractions
+✅ it’s famous for its natural scenery
+
+(More natural spoken collocation)
+
+❌ where people can go sightseeing or camping
+✅ where people can relax, go camping, or enjoy nature
+
+(More natural flow)
+
+❌ Ho Chi Minh City offers more urban attractions
+✅ Ho Chi Minh City has more city-based attractions
+
+(Slightly more conversational)
+
+❌ the city is more modern and exciting
+✅ the city feels livelier and more energetic
+
+(More natural spoken comparison)
+
 17. With the "Nightlife" aspect and think of words to compare your home town to Ho Chi Minh City. Use as many different words as you can.
 
 **Outline**:
@@ -315,3 +593,23 @@ Compared to my hometown, the city is much more exciting and crowded, especially 
 / Ho Chi Minh City / vibrant / lively nightlife / bars / clubs / restaurants / open late / compared to / more exciting 
 / crowded / especially / city center / meanwhile / more peaceful / relaxed
 ```
+
+❌ There are not many entertainment options
+✅ There aren’t many places to go out at night
+
+(More natural spoken English)
+
+❌ There are many places such as bars, clubs, and restaurants
+✅ There are lots of bars, clubs, and late-night restaurants
+
+(More fluent and concise)
+
+❌ the city is much more exciting and crowded
+✅ the city feels far livelier and busier
+
+(More natural collocation)
+
+❌ nightlife in my hometown is more peaceful and relaxing
+✅ evenings back home are much calmer and more relaxing
+
+(Sounds more natural and varied)
